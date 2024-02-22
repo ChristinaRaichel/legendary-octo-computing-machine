@@ -4,3 +4,4 @@
     #docs
     #newdocs
     #again new
+    #stash docstring
